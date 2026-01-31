@@ -1,5 +1,14 @@
 # 💫 About Me:
-<br>"I’m currently working on React projects, including web applications like a Lorem Ipsum Generator, portfolio webpage, and more. I'm also exploring frontend technologies like Tailwind CSS and Firebase."I’m looking to collaborate on open-source projects related to frontend development, especially in React, Tailwind, and JavaScript frameworks "I’m looking for help with improving my understanding of advanced React concepts, such as hooks and state management, and integrating backend technologies with frontend apps.<br><br>"I’m currently learning React hooks, advanced JavaScript techniques, and best practices for building scalable, maintainable frontend applications."Ask me about creating responsive web designs, React projects, Tailwind CSS, and my experience working on web-based applications."Fun fact: I built a Pokémon search webpage using HTML, CSS, and JavaScript, where users can search for their favorite Pokémon by type!"
+<br>I currently work closely with technical learning and assessment programs in an EdTech environment, where I design and review coding assessments and help candidates become interview-ready for real software engineering roles.
+
+Alongside my full-time work, I’m building **VeganFit**, a personal product focused on a vegan-first fitness and lifestyle platform. Here I handle end-to-end frontend development, continuous feature building, and real-world product iteration using React and modern web technologies.
+
+I enjoy working on practical, impact-driven React applications and improving how users learn, interact, and stay consistent through clean and scalable UI.
+
+I’m continuously strengthening my understanding of advanced React patterns, state management, and writing maintainable frontend architecture that can scale with real users.
+
+Ask me about building responsive React apps, designing user-focused interfaces, creating technical assessments, and turning learning projects into real, usable products.
+
 
 
 ## 🌐 Socials:
