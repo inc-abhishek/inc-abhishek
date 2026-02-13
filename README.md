@@ -1,13 +1,11 @@
 # 💫 About Me:
-<br>I currently work closely with technical learning and assessment programs in an EdTech environment, where I design and review coding assessments and help candidates become interview-ready for real software engineering roles.
+<br>Program and Operations professional with experience in managing large-scale EdTech programs and improving learner outcomes through structured execution and process optimization. Currently managing multiple programs at AccioJob, including the Fast Track Program (Java), MERN Self-Paced Program, and PAP Program, ensuring smooth delivery, strong learner engagement, and consistent performance.
 
-Alongside my full-time work, I’m building **VeganFit**, a personal product focused on a vegan-first fitness and lifestyle platform. Here I handle end-to-end frontend development, continuous feature building, and real-world product iteration using React and modern web technologies.
+Contributed to driving learner satisfaction across programs with an average NPS of 45+. Also worked on product-level improvements in technical assessments by introducing new assessments, streamlining workflows, and scaling execution processes, resulting in 4000+ submissions (still counting).
 
-I enjoy working on practical, impact-driven React applications and improving how users learn, interact, and stay consistent through clean and scalable UI.
+Strong interest in program ownership, mentorship, and building scalable systems that enhance the overall learning experience. Working knowledge of the MERN stack and frontend development, with an interest in building user-focused digital solutions.
 
-I’m continuously strengthening my understanding of advanced React patterns, state management, and writing maintainable frontend architecture that can scale with real users.
-
-Ask me about building responsive React apps, designing user-focused interfaces, creating technical assessments, and turning learning projects into real, usable products.
+Open to opportunities in program management, operations, and growth-focused execution roles.
 
 
 
